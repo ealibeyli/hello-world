@@ -1,3 +1,3 @@
 # hello-world
 
-I'am EA.
+I'm EA.
